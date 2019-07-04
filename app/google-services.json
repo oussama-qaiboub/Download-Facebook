@@ -1,0 +1,210 @@
+{
+  "project_info": {
+    "project_number": "151265756142",
+    "firebase_url": "https://fullappmoney.firebaseio.com",
+    "project_id": "fullappmoney",
+    "storage_bucket": "fullappmoney.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151265756142:android:4fd42acbcf17b762",
+        "android_client_info": {
+          "package_name": "com.gyan.anime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151265756142-uuisib66uhb52dt25bs8h4oq3ofu56q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQQyghEXm1IlOuaBebEg9wlRUZSWeuKeU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151265756142:android:4467232af04caf8f",
+        "android_client_info": {
+          "package_name": "com.gyan.audio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151265756142-uuisib66uhb52dt25bs8h4oq3ofu56q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQQyghEXm1IlOuaBebEg9wlRUZSWeuKeU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151265756142:android:ee00b8fc69aa69ae",
+        "android_client_info": {
+          "package_name": "com.gyan.fbd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151265756142-uuisib66uhb52dt25bs8h4oq3ofu56q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQQyghEXm1IlOuaBebEg9wlRUZSWeuKeU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151265756142:android:8b234bb679c6c7e3",
+        "android_client_info": {
+          "package_name": "com.gyan.video"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151265756142-0v8gdfrnhfk9kkuobpom9jvur8si5hrc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gyan.video",
+            "certificate_hash": "7203e2b85754ddfef7ddb3e81b3521d3c4c3427e"
+          }
+        },
+        {
+          "client_id": "151265756142-uuisib66uhb52dt25bs8h4oq3ofu56q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQQyghEXm1IlOuaBebEg9wlRUZSWeuKeU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151265756142-uuisib66uhb52dt25bs8h4oq3ofu56q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151265756142:android:d4396eb66cdbe13c",
+        "android_client_info": {
+          "package_name": "com.yes.statusDownloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151265756142-uuisib66uhb52dt25bs8h4oq3ofu56q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQQyghEXm1IlOuaBebEg9wlRUZSWeuKeU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151265756142:android:1c67de25da05799e",
+        "android_client_info": {
+          "package_name": "com.yes.whatsappCleaner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151265756142-uuisib66uhb52dt25bs8h4oq3ofu56q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQQyghEXm1IlOuaBebEg9wlRUZSWeuKeU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
